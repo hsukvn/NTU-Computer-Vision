@@ -1,6 +1,5 @@
 #Computer-Vision
-===============
 
-###Cource in NTU CSIE
+###Cource under CSIE National Taiwan University
 
 * Computer vision homeworks
